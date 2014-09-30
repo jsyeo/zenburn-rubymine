@@ -11,7 +11,7 @@ Installation
 
 ### Option 1: Install using "Import Settings..."
 
-1. Download the [settings.jar](https://github.com/jsyeo/zenburn-rubymine/blob/master/settings.jar?raw=true) file.
+1. Download the [settings.jar](https://github.com/jsyeo/zenburn-rubymine/releases/) file from the releases page.
 
 2. Go to `File | Import Settings...` and import the `settings.jar` file.
 
@@ -33,4 +33,4 @@ Bugs
 ----
 Please report any problems you find on the issue tracker.
 
--[Jason](http://twitter.com/jasonyeojs)
+[Jason](http://twitter.com/jasonyeojs)
